@@ -6,7 +6,7 @@ import SignUp from "@/pages/SignUp";
 import SignUpChoice from "@/pages/SignUpChoice";
 import StudentSignUp from "@/pages/StudentSignUp";
 import TutorSignUp from "@/pages/TutorSignUp";
-import InstitutionSignup from "@/pages/InstitutionSignup";
+import InstitutionSignup from "@/pages/InstitutionSignUp";
 import { InstitutionSignupProvider } from "@/contexts/InstitutionSignupContext";
 
 import StudentDashboard from "@/pages/StudentDashboard";
